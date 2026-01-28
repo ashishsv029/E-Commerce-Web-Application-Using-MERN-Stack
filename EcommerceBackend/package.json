@@ -9,7 +9,7 @@
   "author": "ashishsv",
   "license": "MIT",
   "dependencies": {
-    "bcrypt": "^5.0.0",
+    "bcrypt": "^5.0.1",
     "body-parser": "^1.19.0",
     "braintree": "^2.23.0",
     "cookie-parser": "^1.4.5",
@@ -21,11 +21,11 @@
     "formidable": "^1.2.2",
     "i": "^0.3.6",
     "jsonwebtoken": "^8.5.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "mongoose": "^5.9.18",
     "morgan": "^1.10.0",
     "nodemon": "^2.0.4",
-    "npm": "^6.14.5",
+    "npm": "^7.21.0",
     "uuid": "^8.1.0"
   }
 }
